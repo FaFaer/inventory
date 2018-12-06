@@ -1,0 +1,165 @@
+	body {
+		width: 100%;
+		height: 100%;
+		text-align: center;
+		padding: 0px;
+		margin: 0px;
+		overflow-y: hidden;
+		font-size:16px;
+		background: aliceblue;
+	}
+	body a:hover{
+		cursor: pointer;
+	}
+	form span{
+		display: inline-block;
+		font-size: 20px;
+	}
+	form{
+		width: 830px; 
+		margin:30px auto ;
+	}
+	#content h1 {
+		margin:50px auto ;
+		font-size: 50px;
+	}
+	table{
+	display: inline-block;
+	margin: 0px auto;
+	}
+	table tr td{
+	display: inline-block;
+	margin: 0px auto;
+	}
+	#main {
+		width: 100%;
+		height: 944px;
+	}
+	
+	#mainmenu {
+		display: inline-block;
+	}
+	
+	.topmenu nav {
+		margin: 20px;
+	}
+	
+	#content {
+		float: left;
+		width: 78%;
+		height: 78%;
+		background: aliceblue;
+	}
+	
+	.topmenu {
+		margin: auto 0px;
+		height: 107px;
+		display: none;
+		width: 68%;
+	}
+	
+	#ttop {
+		width: 100%;
+		text-align: center;
+		left: 10px;
+	}
+	
+	#leftM menu {
+		margin: -6px 0px;
+		font-size: 18px;
+	}
+	
+	.topmenu menu {
+		font-size: 18px;
+	}
+	
+	#topname span {
+		display: inline-block;
+		width: 277px;
+		text-align: center;
+		line-height: 50px;
+		height: 50px;
+		font-size:20px;
+	}
+	
+	.topmenu menu a:hover {
+		font-size: 18px;
+	}
+	
+	#middle {
+		width: 100%;
+		background: #1A2536;
+		height: 100%;
+	}
+	
+	#menumidd {
+		float: left;
+		margin: 0px auto;
+		width: 88%;
+		height: 83px;
+	}
+	
+	#select {
+		width:600px;
+		height: 500px;
+		border: solid 1px #1E90FF;
+		border-radius: 5px;
+		margin: 10px auto;
+		overflow: scroll;
+		overflow-x: hidden;
+	}
+	
+	#form {
+		margin: 80px auto;
+		width: 600px;
+	}
+	
+	.form-group {
+		margin-top: 30px;
+	}
+	
+	#a {
+		margin: 0px auto;
+		height: 970px;
+		width: 90%;
+		background: #1a2536;
+		display: fixed;
+	}
+	
+	#top {
+		margin: 0px auto;
+		height: 100px;
+		width: 100%;
+		background: #303448;
+	}
+	
+	#b {
+		float: left;
+		line-height: 100px;
+		color: white;
+		font-size: 20px;
+	}
+	
+	#Tright {
+		float: right;
+		line-height: 100px;
+		color: white;
+		margin-right: 169px;
+	}
+	
+	#leftM {
+		float: left;
+		height: 525px;
+		width: 200px;
+		margin-top: 204px;
+		margin-left: 67px;
+	}
+	
+	tr {
+		height: 50px;
+	}
+	
+	tr:hover {
+		color: red;
+		cursor: pointer;
+	}
